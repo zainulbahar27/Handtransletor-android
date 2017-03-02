@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hand Transletorv2</string>
+    <string name="none_paired">Nothing Bluetooth has been paired</string>
+    <string name="bicarakan">BICARAKAN</string>
+</resources>
